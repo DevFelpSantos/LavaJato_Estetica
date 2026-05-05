@@ -1,6 +1,6 @@
 export const business = {
   name: "AutoBrilho",
-  phone: "5511999999999", // placeholder
+  phone: "71987826487", // placeholder
   hours: "Segunda a Domingo, 08h às 18h",
   instagram: "https://instagram.com",
   facebook: "https://facebook.com",
