@@ -12,3 +12,5 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+sitemap: https://esteticamatatu.netlify.app/sitemap.xml
